@@ -18,6 +18,7 @@ class Song
         else
             nil
         end
+        #Or artist.name if artist
     end
   end
   
